@@ -32,3 +32,6 @@ O sistema também simula a estrutura de banco de dados relacional, separada em c
   - `db_pedidos`
   - `db_pagamentos`
   - `db_logistica`
+
+# Integrantes
+Jonnas Pedro e Stephan Augusto
